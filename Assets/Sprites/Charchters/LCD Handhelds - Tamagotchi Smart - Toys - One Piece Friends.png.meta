@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 9a9da79c8ac126c489a0fae4bb7772b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8448780309813625680
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_0
+  - first:
+      213: -347294234878767502
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_1
+  - first:
+      213: -4002524937356951571
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_2
+  - first:
+      213: -5721113823146508074
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_3
+  - first:
+      213: -4708619242330644256
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_4
+  - first:
+      213: 5357062102729043734
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_5
+  - first:
+      213: -6996797612796646761
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_6
+  - first:
+      213: -3798236706176471271
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_7
+  - first:
+      213: -7539384566494879258
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_8
+  - first:
+      213: 5882792962974579723
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_9
+  - first:
+      213: -2161905808247421077
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_10
+  - first:
+      213: 7783256084630775147
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_11
+  - first:
+      213: -634143865454559698
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_12
+  - first:
+      213: -8611803290978874033
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_13
+  - first:
+      213: -2043069654373055288
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_14
+  - first:
+      213: -1771391616846606629
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_15
+  - first:
+      213: 2678762238123483155
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_16
+  - first:
+      213: -1404296636068496358
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_17
+  - first:
+      213: -6369930242873553773
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_18
+  - first:
+      213: 7355936158612260186
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_19
+  - first:
+      213: 6147572572010158168
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_20
+  - first:
+      213: 5817768617554598842
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_21
+  - first:
+      213: 5175017462286377422
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_22
+  - first:
+      213: 3484433080805917388
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_23
+  - first:
+      213: 7050407993668491162
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_24
+  - first:
+      213: 1002896674475446044
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_25
+  - first:
+      213: -4473159122212629768
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_26
+  - first:
+      213: -4300285312319832335
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_27
+  - first:
+      213: -1308111969182543068
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_28
+  - first:
+      213: -4856746364658264548
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_29
+  - first:
+      213: 2293022788182035455
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_30
+  - first:
+      213: 6381576932164648096
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_31
+  - first:
+      213: -3602192163587716088
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_32
+  - first:
+      213: -5417316262067349576
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_33
+  - first:
+      213: -2011290637886334362
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_34
+  - first:
+      213: -5771186232675849579
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_35
+  - first:
+      213: -7580458325347005733
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_36
+  - first:
+      213: -2260447094307139996
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_37
+  - first:
+      213: 5701384994338192910
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_38
+  - first:
+      213: -2219772688865039352
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_39
+  - first:
+      213: -2988178645324570006
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_40
+  - first:
+      213: 7243195400873261963
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_41
+  - first:
+      213: -4536405071740749658
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_42
+  - first:
+      213: -1075274305343046215
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_43
+  - first:
+      213: 6047864139602030065
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_44
+  - first:
+      213: -2668113866533539509
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_45
+  - first:
+      213: 4320861740098736473
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_46
+  - first:
+      213: -5295492228292757390
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_47
+  - first:
+      213: 6651834086031082489
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_48
+  - first:
+      213: 7300784144637566464
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_49
+  - first:
+      213: -368350999260331647
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_50
+  - first:
+      213: 759002928283044506
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_51
+  - first:
+      213: -7974586766850596723
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_52
+  - first:
+      213: -8049840466183893733
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_53
+  - first:
+      213: -8652681114743891846
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_54
+  - first:
+      213: 1894225331425190836
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_55
+  - first:
+      213: 1342112840907559502
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_56
+  - first:
+      213: 5340679367529363744
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_57
+  - first:
+      213: -6090686801962091811
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_58
+  - first:
+      213: 7189598089105564012
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_59
+  - first:
+      213: -6972405647942956093
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_60
+  - first:
+      213: -7746376983230815448
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_61
+  - first:
+      213: -199865207414150046
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_62
+  - first:
+      213: -4921727981338869824
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_63
+  - first:
+      213: 2870109109435128339
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_64
+  - first:
+      213: -7391686378899877385
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_65
+  - first:
+      213: 7225972223734731864
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_66
+  - first:
+      213: 1840578333473456278
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_67
+  - first:
+      213: -2760213780864929763
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_68
+  - first:
+      213: 5724399909293526951
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_69
+  - first:
+      213: -5405604310579439266
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_70
+  - first:
+      213: 3121658803736467146
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_71
+  - first:
+      213: 3216935210689361874
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_72
+  - first:
+      213: 8708899012635268877
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_73
+  - first:
+      213: 1383400215540745728
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_74
+  - first:
+      213: -4291682799976597319
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_75
+  - first:
+      213: 5305777037315008520
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_76
+  - first:
+      213: 2329942360355657339
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_77
+  - first:
+      213: -7695855468807518645
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_78
+  - first:
+      213: -5352960792229340851
+    second: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 785
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05381cf9de8104570800000000000000
+      internalID: 8448780309813625680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 753
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e8281cbb92e2bf0800000000000000
+      internalID: -347294234878767502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 753
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def323896cc2478c0800000000000000
+      internalID: -4002524937356951571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 753
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d086c32a458a90b0800000000000000
+      internalID: -5721113823146508074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 754
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e020561fbf97aeb0800000000000000
+      internalID: -4708619242330644256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 799
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f2fd8799b185a40800000000000000
+      internalID: 5357062102729043734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 785
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a64fb44a166ee90800000000000000
+      internalID: -6996797612796646761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 789
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f6083f6d3f94bc0800000000000000
+      internalID: -3798236706176471271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 793
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1a201aea9be5790800000000000000
+      internalID: -7539384566494879258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 801
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c744d0801e3a150800000000000000
+      internalID: 5882792962974579723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 786
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b670f852f1e5ff1e0800000000000000
+      internalID: -2161905808247421077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 776
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65a058eb2ea30c60800000000000000
+      internalID: 7783256084630775147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 764
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e7613a3811337f0800000000000000
+      internalID: -634143865454559698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 721
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d0aadb88abc7880800000000000000
+      internalID: -8611803290978874033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 685
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c6b759fe85a3e0800000000000000
+      internalID: -2043069654373055288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 685
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec0cfa5b0ca67e0800000000000000
+      internalID: -1771391616846606629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 685
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310a4191010ec2520800000000000000
+      internalID: 2678762238123483155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 685
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c7cd756afe28ce0800000000000000
+      internalID: -1404296636068496358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_18
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 747
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c018581367997a0800000000000000
+      internalID: -6369930242873553773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 742
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55098c76f8851660800000000000000
+      internalID: 7355936158612260186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 721
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8589999dea0905550800000000000000
+      internalID: 6147572572010158168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 721
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbd1cadbbddcb050800000000000000
+      internalID: 5817768617554598842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1e50aa6fa51d740800000000000000
+      internalID: 5175017462286377422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 686
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc28e09fc613b5030800000000000000
+      internalID: 3484433080805917388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_24
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 653
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a975f2037b418d160800000000000000
+      internalID: 7050407993668491162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 617
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f878c36310bed00800000000000000
+      internalID: 1002896674475446044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 553
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2d7b86a752ce1c0800000000000000
+      internalID: -4473159122212629768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 617
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb856da415254c0800000000000000
+      internalID: -4300285312319832335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 621
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423107e3817a8dde0800000000000000
+      internalID: -1308111969182543068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_29
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 621
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16df5ad9ee599cb0800000000000000
+      internalID: -4856746364658264548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 585
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb477fa31472df10800000000000000
+      internalID: 2293022788182035455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 585
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac3084a86aef8850800000000000000
+      internalID: 6381576932164648096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 549
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c88acff41720ec0800000000000000
+      internalID: -3602192163587716088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 549
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b75783df83d1d4b0800000000000000
+      internalID: -5417316262067349576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 506
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a57b432d57614e0800000000000000
+      internalID: -2011290637886334362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 409
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a2bbcc2b0a8efa0800000000000000
+      internalID: -5771186232675849579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 409
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda0a0be05dccc690800000000000000
+      internalID: -7580458325347005733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_37
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 487
+        width: 130
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e4246185741a0e0800000000000000
+      internalID: -2260447094307139996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 522
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e3543f1736f1f40800000000000000
+      internalID: 5701384994338192910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 418
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce5161088c131e0800000000000000
+      internalID: -2219772688865039352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 505
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a626508aa5bd786d0800000000000000
+      internalID: -2988178645324570006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 409
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b3bcb47dff48460800000000000000
+      internalID: 7243195400873261963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_42
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 474
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8bc954f937b01c0800000000000000
+      internalID: -4536405071740749658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 394
+        width: 258
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd3ce167bbd311f0800000000000000
+      internalID: -1075274305343046215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 405
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd6dca54645ee350800000000000000
+      internalID: 6047864139602030065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_45
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 405
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4179fc1394f8fad0800000000000000
+      internalID: -2668113866533539509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_46
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 405
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95159261cd8c6fb30800000000000000
+      internalID: 4320861740098736473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 337
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278b4c500e1a286b0800000000000000
+      internalID: -5295492228292757390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 337
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3c7babbdf005c50800000000000000
+      internalID: 6651834086031082489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_49
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 337
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e1de29f78915560800000000000000
+      internalID: 7300784144637566464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_50
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 322
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1818d60c7ba53eaf0800000000000000
+      internalID: -368350999260331647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_51
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 341
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9acac35425888a00800000000000000
+      internalID: 759002928283044506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_52
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 341
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e6533693945190800000000000000
+      internalID: -7974586766850596723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_53
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 341
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d4b82feb8394090800000000000000
+      internalID: -8049840466183893733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_54
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 337
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7895f8be508be780800000000000000
+      internalID: -8652681114743891846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 277
+        width: 258
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3252427e3a94a10800000000000000
+      internalID: 1894225331425190836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 269
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4219ca948420a210800000000000000
+      internalID: 1342112840907559502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_57
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 269
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02978d0b697ed1a40800000000000000
+      internalID: 5340679367529363744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 269
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddab3ea9f98897ba0800000000000000
+      internalID: -6090686801962091811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61e6f2be5596c360800000000000000
+      internalID: 7189598089105564012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_60
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 269
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbce6c210a0d3f90800000000000000
+      internalID: -6972405647942956093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 201
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823e3420d275f7490800000000000000
+      internalID: -7746376983230815448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 201
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cae1d17afe93df0800000000000000
+      internalID: -199865207414150046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 201
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf32373a7282bbb0800000000000000
+      internalID: -4921727981338869824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 201
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a5e7e470da4d720800000000000000
+      internalID: 2870109109435128339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 201
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f15496b6647b6990800000000000000
+      internalID: -7391686378899877385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_66
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 181
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8545c80e37fc74460800000000000000
+      internalID: 7225972223734731864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_67
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 142
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69047f31e3c0b8910800000000000000
+      internalID: 1840578333473456278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d107867c030c1b9d0800000000000000
+      internalID: -2760213780864929763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 73
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af08b96367217f40800000000000000
+      internalID: 5724399909293526951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 75
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e599797058f6bf4b0800000000000000
+      internalID: -5405604310579439266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_71
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 73
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6deaa842c525b20800000000000000
+      internalID: 3121658803736467146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_72
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 73
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7f592b789d4ac20800000000000000
+      internalID: 3216935210689361874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 75
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0710e0a2893cd870800000000000000
+      internalID: 8708899012635268877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_74
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 73
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006418d9a23d23310800000000000000
+      internalID: 1383400215540745728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_75
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 73
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8bdb25b31e074c0800000000000000
+      internalID: -4291682799976597319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808e59eaa18e1a940800000000000000
+      internalID: 5305777037315008520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_77
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7652207b3e955020800000000000000
+      internalID: 2329942360355657339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_78
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b460bfab934d23590800000000000000
+      internalID: -7695855468807518645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 10
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49939a458676b5b0800000000000000
+      internalID: -5352960792229340851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_0: 8448780309813625680
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_1: -347294234878767502
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_10: -2161905808247421077
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_11: 7783256084630775147
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_12: -634143865454559698
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_13: -8611803290978874033
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_14: -2043069654373055288
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_15: -1771391616846606629
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_16: 2678762238123483155
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_17: -1404296636068496358
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_18: -6369930242873553773
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_19: 7355936158612260186
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_2: -4002524937356951571
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_20: 6147572572010158168
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_21: 5817768617554598842
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_22: 5175017462286377422
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_23: 3484433080805917388
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_24: 7050407993668491162
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_25: 1002896674475446044
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_26: -4473159122212629768
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_27: -4300285312319832335
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_28: -1308111969182543068
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_29: -4856746364658264548
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_3: -5721113823146508074
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_30: 2293022788182035455
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_31: 6381576932164648096
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_32: -3602192163587716088
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_33: -5417316262067349576
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_34: -2011290637886334362
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_35: -5771186232675849579
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_36: -7580458325347005733
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_37: -2260447094307139996
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_38: 5701384994338192910
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_39: -2219772688865039352
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_4: -4708619242330644256
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_40: -2988178645324570006
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_41: 7243195400873261963
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_42: -4536405071740749658
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_43: -1075274305343046215
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_44: 6047864139602030065
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_45: -2668113866533539509
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_46: 4320861740098736473
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_47: -5295492228292757390
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_48: 6651834086031082489
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_49: 7300784144637566464
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_5: 5357062102729043734
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_50: -368350999260331647
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_51: 759002928283044506
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_52: -7974586766850596723
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_53: -8049840466183893733
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_54: -8652681114743891846
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_55: 1894225331425190836
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_56: 1342112840907559502
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_57: 5340679367529363744
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_58: -6090686801962091811
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_59: 7189598089105564012
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_6: -6996797612796646761
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_60: -6972405647942956093
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_61: -7746376983230815448
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_62: -199865207414150046
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_63: -4921727981338869824
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_64: 2870109109435128339
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_65: -7391686378899877385
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_66: 7225972223734731864
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_67: 1840578333473456278
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_68: -2760213780864929763
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_69: 5724399909293526951
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_7: -3798236706176471271
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_70: -5405604310579439266
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_71: 3121658803736467146
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_72: 3216935210689361874
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_73: 8708899012635268877
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_74: 1383400215540745728
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_75: -4291682799976597319
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_76: 5305777037315008520
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_77: 2329942360355657339
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_78: -7695855468807518645
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_79: -5352960792229340851
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_8: -7539384566494879258
+      LCD Handhelds - Tamagotchi Smart - Toys - One Piece Friends_9: 5882792962974579723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

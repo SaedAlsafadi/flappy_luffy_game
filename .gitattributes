@@ -1,0 +1,20 @@
+# Treat all files as text and normalize line endings
+* text=auto
+
+# C# files
+*.cs text diff=csharp
+
+# Shader files
+*.shader text
+*.cginc text
+*.shadergraph text
+
+# Unity text assets
+*.unity text
+*.prefab text
+*.asset text
+*.meta text
+*.controller text
+*.anim text
+*.mat text
+*.inputactions text
