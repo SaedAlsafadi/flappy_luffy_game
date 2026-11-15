@@ -1,8 +1,10 @@
-# 🎮 Flappy Bird - Complete Setup Guide
+# 🎮 Flappy Luffy - Setup Guide
+
+> These notes were written during development. Script names have been updated to match the project, but some scene object names may differ from the final build. See the [README](README.md) for the current list of scripts.
 
 ## ✅ Changes Made
 
-### **PlayerController.cs** - Updated to BirdScript Style
+### **PlayerScript.cs** - Updated to BirdScript Style
 - ✅ Uses `Rigidbody2D.velocity` directly (simpler physics)
 - ✅ Uses old Input System (`Input.GetKeyDown(KeyCode.Space)`)
 - ✅ Uses `OnCollisionEnter2D` (not triggers)
@@ -39,7 +41,7 @@ Go to **Edit → Project Settings → Tags and Layers**, add these tags:
    - Constraints: `Freeze Rotation Z` ✅
 4. **Collider2D** (BoxCollider2D or CircleCollider2D)
    - ❌ **Is Trigger: UNCHECKED** (solid collision)
-5. **PlayerController Script**
+5. **PlayerScript Script**
    - Flap Strength: `10` (adjust to taste)
    - My Rigidbody: Drag Rigidbody2D here (or leave empty for auto-find)
    - Logic: Drag GameManager here (or leave empty for auto-find)
@@ -67,7 +69,7 @@ Go to **Edit → Project Settings → Tags and Layers**, add these tags:
 **Structure:**
 ```
 Obstacle (Root)
-├── ObstacleMovement.cs
+├── PipeMovement.cs
 ├── TopPipe
 │   ├── Tag: "Obstacle"
 │   ├── Sprite Renderer
@@ -78,15 +80,15 @@ Obstacle (Root)
 │   ├── Sprite Renderer
 │   ├── BoxCollider2D
 │   └── Is Trigger: ❌ UNCHECKED
-└── ScoreTrigger
-    ├── ScoreTrigger.cs
+└── MiddlePipeScript
+    ├── MiddlePipeScript.cs
     ├── BoxCollider2D
     └── Is Trigger: ✅ CHECKED
 ```
 
 **Critical Settings:**
 - **TopPipe & BottomPipe**: Colliders are **NOT triggers** (solid walls)
-- **ScoreTrigger**: Collider **IS a trigger** (invisible scoring zone)
+- **MiddlePipeScript**: Collider **IS a trigger** (invisible scoring zone)
 - **Tags**: TopPipe and BottomPipe tagged as `Obstacle`
 
 ---
@@ -119,7 +121,7 @@ Obstacle (Root)
 4. GameManager stops spawner and freezes obstacles
 
 ### **Scoring:**
-1. Player passes through ScoreTrigger → `OnTriggerEnter2D` in ScoreTrigger.cs
+1. Player passes through MiddlePipeScript → `OnTriggerEnter2D` in MiddlePipeScript.cs
 2. Calls `GameManager.AddScore(1)`
 3. Score increases by 1
 
@@ -139,12 +141,12 @@ Obstacle (Root)
 
 ### **Game Doesn't End on Collision:**
 - ✅ Check GameManager has "Logic" tag
-- ✅ Check PlayerController found the GameManager (check Console for warnings)
+- ✅ Check PlayerScript found the GameManager (check Console for warnings)
 - ✅ Check pipes are tagged as "Obstacle"
 
 ### **Score Not Increasing:**
-- ✅ Check ScoreTrigger has BoxCollider2D with "Is Trigger" checked
-- ✅ Check ScoreTrigger.cs is attached
+- ✅ Check MiddlePipeScript has BoxCollider2D with "Is Trigger" checked
+- ✅ Check MiddlePipeScript.cs is attached
 - ✅ Check Player has Rigidbody2D (required for triggers)
 
 ---
@@ -175,8 +177,8 @@ Obstacle (Root)
 - [ ] Player has Rigidbody2D with Gravity Scale > 0
 - [ ] Player has Collider2D (NOT a trigger)
 - [ ] Pipes have Collider2D (NOT triggers)
-- [ ] ScoreTrigger has Collider2D (IS a trigger)
-- [ ] PlayerController has `flapStrength` set
+- [ ] MiddlePipeScript has Collider2D (IS a trigger)
+- [ ] PlayerScript has `flapStrength` set
 - [ ] ObstacleSpawner has prefab assigned
 
 ---
